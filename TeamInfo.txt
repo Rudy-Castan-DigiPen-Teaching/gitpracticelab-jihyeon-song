@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Jihyeon Song B
+=======
+Seonghyeon Ju A
+>>>>>>> 17e9e26329302a0866d4a57c7f56c1472017201c
